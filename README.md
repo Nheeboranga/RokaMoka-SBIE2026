@@ -10,11 +10,10 @@ O **Roká Moká** é um aplicativo móvel para mediação cultural digital gamif
 
 No momento, apenas a versão para **Android** está disponível.
 
-O arquivo disponibilizado neste repositório é:
+O arquivo APK do aplicativo, `roka_moka_prod_v5.apk`, está disponível para download no Google Drive:
 
-```text
-roka_moka_prod_v5.apk
-```
+[Baixar APK](https://drive.google.com/file/d/1bmg5r4ctXeOBaoGt8F3ptAVDCL0rzSef/view?usp=drive_link
+)
 
 Para instalar o aplicativo, baixe o arquivo APK diretamente pelo celular Android e execute a instalação manualmente. Como o aplicativo ainda não está disponível em lojas oficiais, pode ser necessário autorizar, nas configurações do dispositivo, a instalação de aplicativos provenientes de fontes externas.
 
