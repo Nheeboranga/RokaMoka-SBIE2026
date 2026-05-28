@@ -1,7 +1,7 @@
 # Roká Moká
 
 <p align="center">
-  <img src="icone.png" alt="Ícone do Roká Moká" width="120">
+  <img src="roka-moka-icon.png" alt="Ícone do Roká Moká" width="120">
 </p>
 
 O **Roká Moká** é um aplicativo móvel para mediação cultural digital gamificada, desenvolvido para apoiar visitas a exposições por meio da leitura de QR Codes, consulta a informações sobre obras e acompanhamento do progresso do visitante.
