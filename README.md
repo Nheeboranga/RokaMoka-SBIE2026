@@ -33,12 +33,9 @@ Após instalar o aplicativo e acessar a conta de demonstração, utilize a funci
 Os QR Codes abaixo permitem acessar informações sobre obras da exposição.
 
 <p align="center">
-  <img src="Imagem_1_SBIE_2026.png" alt="QR Code 1" width="180">
-  <img src="Imagem_2_SBIE_2026.png" alt="QR Code 2" width="180">
-</p>
-
-<p align="center">
-  <img src="Imagem_3_SBIE_2026.png" alt="QR Code 3" width="180">
+  <img src="Imagem_1_SBIE_2026.png" alt="QR Code 1" width="180"><BR>
+  <img src="Imagem_2_SBIE_2026.png" alt="QR Code 2" width="180"><BR>
+  <img src="Imagem_3_SBIE_2026.png" alt="QR Code 3" width="180"><BR>
   <img src="Imagem_4_SBIE_2026.png" alt="QR Code 4" width="180">
 </p>
 
