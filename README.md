@@ -43,14 +43,6 @@ Os QR Codes abaixo permitem acessar informações sobre obras da exposição.
   <img src="Imagem_4_SBIE_2026.png" alt="QR Code 4" width="180">
 </p>
 
-Arquivos dos QR Codes:
-
-```text
-Imagem_1_SBIE_2026.png
-Imagem_2_SBIE_2026.png
-Imagem_3_SBIE_2026.png
-Imagem_4_SBIE_2026.png
-```
 
 ## Como testar
 
